@@ -1,5 +1,5 @@
 ### BJJ-Log
-![](Picture1.png) 
+BJJ-Log, a phone and tablet APP for Jiu-jitsu practioners to record their training, build BJJ network, plan their training map, and using computer vision to analysis their moves ![](Picture1.png) 
 
 ## Introduction and problem statement:
 
